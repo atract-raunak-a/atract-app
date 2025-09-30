@@ -7,6 +7,7 @@ import {
   StyleSheet,
   ScrollView,
 } from 'react-native';
+import { Colors } from '../../config/colors';
 
 const AdminLogin = ({ navigation }: any) => {
   const [email, setEmail] = useState('');
@@ -69,7 +70,7 @@ const styles = StyleSheet.create({
     padding: 20,
   },
   card: {
-    backgroundColor: '#fff',
+    backgroundColor: Colors.white,
     borderRadius: 12,
       padding: 20,
     elevation: 5,

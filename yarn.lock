@@ -3436,23 +3436,6 @@ expect@^29.0.0, expect@^29.7.0:
     jest-message-util "^29.7.0"
     jest-util "^29.7.0"
 
-expo-document-picker@^14.0.7:
-  version "14.0.7"
-  resolved "https://registry.npmjs.org/expo-document-picker/-/expo-document-picker-14.0.7.tgz"
-  integrity sha512-81Jh8RDD0GYBUoSTmIBq30hXXjmkDV1ZY2BNIp1+3HR5PDSh2WmdhD/Ezz5YFsv46hIXHsQc+Kh1q8vn6OLT9Q==
-
-expo-image-loader@~6.0.0:
-  version "6.0.0"
-  resolved "https://registry.npmjs.org/expo-image-loader/-/expo-image-loader-6.0.0.tgz"
-  integrity sha512-nKs/xnOGw6ACb4g26xceBD57FKLFkSwEUTDXEDF3Gtcu3MqF3ZIYd3YM+sSb1/z9AKV1dYT7rMSGVNgsveXLIQ==
-
-expo-image-picker@^17.0.8:
-  version "17.0.8"
-  resolved "https://registry.npmjs.org/expo-image-picker/-/expo-image-picker-17.0.8.tgz"
-  integrity sha512-489ByhVs2XPoAu9zodivAKLv7hG4S/FOe8hO/C2U6jVxmRjpAKakKNjMml0IwWjf1+c/RYBqm1XxKaZ+vq/fDQ==
-  dependencies:
-    expo-image-loader "~6.0.0"
-
 exponential-backoff@^3.1.1:
   version "3.1.2"
   resolved "https://registry.npmjs.org/exponential-backoff/-/exponential-backoff-3.1.2.tgz"
